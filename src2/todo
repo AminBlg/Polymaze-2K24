@@ -1,6 +1,0 @@
-add red led 
-move oled and tcs to second core, freertos : add a queue to communicate with main thread
-give actions to color detections
-rewrite the ir state checks
-
-perform all tests
